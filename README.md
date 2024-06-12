@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Datapher AI - Best AI agentic financial analyst
 ```
 ⬆️ (Replace above with your app's name)
 ```
