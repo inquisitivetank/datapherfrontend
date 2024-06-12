@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Datapher AI')
 
-st.write('Hello world!')
+st.write('The best AI agentic financial analyst')
